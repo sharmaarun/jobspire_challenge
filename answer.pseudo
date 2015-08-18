@@ -1,0 +1,3 @@
+public String returnResult(String name) {
+	return (name+" "+(new Random().nextInt(10)+6));
+}
